@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  overflow: scroll;
+  height: 80vh;
+  width: 50vw;
+}
+
+.single-comment{
+  margin-top: 30px;
+  margin-right: 30px;
+  padding: 10px;
+  border: 8px dotted rgb(0, 255, 34);
+  background-color:rgb(255, 238, 0, 0.3);
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px rgb(255, 0, 179);
+}
